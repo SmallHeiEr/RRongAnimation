@@ -15,10 +15,7 @@ Animations for iOS.
 
 ![screenshot.gif](https://raw.github.com/MellongLau/RRongAnimation/master/Screenshots/screenshot.gif)
 
-## More
-Learn more? Follow my `WeChat` public account `mellong`:
 
-![WeChat QRcode](http://www.devlong.com/blogImages/qrcode_for_mellong.jpg)
 
 ## License
 
